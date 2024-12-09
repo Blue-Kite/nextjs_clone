@@ -1,3 +1,4 @@
+'use client';
 import { IoIosMenu } from 'react-icons/io';
 import Logo from './elements/Logo';
 import { FiSearch } from 'react-icons/fi';
